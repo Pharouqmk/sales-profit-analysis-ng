@@ -1,0 +1,401 @@
+Order ID,Order Date,Region,Segment,Category,Sub-Category,Quantity,Unit Price (NGN),Discount,Sales (NGN),Profit (NGN)
+NG-2025000,2025-05-21,Lagos,Small Business,Technology,Phones,4,98800.0,0.2,395200.0,92523.36
+NG-2025001,2025-01-17,Ibadan,Corporate,Technology,Phones,1,83200.0,0.15,83200.0,8999.35
+NG-2025002,2025-04-23,Ibadan,Corporate,Furniture,Tables,8,101100.0,0.0,808800.0,107813.57
+NG-2025003,2025-03-21,Port Harcourt,Corporate,Furniture,Storage,4,132400.0,0.0,529600.0,-17048.84
+NG-2025004,2025-11-06,Port Harcourt,Corporate,Office Supplies,Binders,5,6300.0,0.15,31500.0,8896.64
+NG-2025005,2025-05-31,Lagos,Small Business,Furniture,Storage,11,103600.0,0.15,1139600.0,172760.41
+NG-2025006,2025-04-27,Lagos,Small Business,Furniture,Chairs,5,134700.0,0.0,673500.0,100594.77
+NG-2025007,2025-07-06,Kano,Small Business,Office Supplies,Labels,3,4400.0,0.0,13200.0,2011.37
+NG-2025008,2025-03-29,Ibadan,Small Business,Technology,Phones,9,159500.0,0.1,1435500.0,130416.07
+NG-2025009,2025-04-28,Port Harcourt,Consumer,Office Supplies,Paper,1,6300.0,0.0,6300.0,1261.83
+NG-2025010,2025-09-13,Abuja,Small Business,Furniture,Bookcases,7,126200.0,0.0,883400.0,66253.37
+NG-2025011,2025-10-15,Abuja,Small Business,Office Supplies,Paper,9,3900.0,0.15,35100.0,8639.74
+NG-2025012,2025-09-18,Abuja,Consumer,Office Supplies,Labels,8,3100.0,0.0,24800.0,2772.12
+NG-2025013,2025-02-02,Kano,Small Business,Furniture,Tables,7,83400.0,0.15,583800.0,115967.48
+NG-2025014,2025-10-02,Lagos,Small Business,Office Supplies,Binders,5,6200.0,0.0,31000.0,5736.36
+NG-2025015,2025-05-15,Kano,Consumer,Office Supplies,Paper,9,6100.0,0.0,54900.0,12457.93
+NG-2025016,2025-04-12,Ibadan,Small Business,Technology,Copiers,3,116900.0,0.15,350700.0,31698.81
+NG-2025017,2025-02-27,Kano,Consumer,Furniture,Bookcases,6,125700.0,0.0,754200.0,106404.75
+NG-2025018,2025-02-10,Abuja,Small Business,Furniture,Chairs,2,113200.0,0.15,226400.0,30701.68
+NG-2025019,2025-03-26,Kano,Small Business,Furniture,Tables,5,95900.0,0.0,479500.0,29876.62
+NG-2025020,2025-12-10,Port Harcourt,Corporate,Technology,Accessories,11,116800.0,0.1,1284800.0,353196.04
+NG-2025021,2025-06-23,Abuja,Consumer,Furniture,Tables,1,101000.0,0.0,101000.0,-7015.44
+NG-2025022,2025-02-04,Lagos,Consumer,Furniture,Chairs,1,124100.0,0.0,124100.0,-15537.31
+NG-2025023,2025-03-09,Abuja,Small Business,Office Supplies,Envelopes,12,6900.0,0.1,82800.0,20100.59
+NG-2025024,2025-02-18,Kano,Consumer,Furniture,Storage,2,107000.0,0.1,214000.0,-5563.11
+NG-2025025,2025-07-26,Lagos,Consumer,Office Supplies,Binders,12,4200.0,0.0,50400.0,15897.07
+NG-2025026,2025-03-13,Ibadan,Corporate,Furniture,Tables,7,66600.0,0.0,466200.0,5557.02
+NG-2025027,2025-10-04,Lagos,Small Business,Office Supplies,Binders,1,7100.0,0.0,7100.0,2354.3
+NG-2025028,2025-04-20,Kano,Corporate,Furniture,Storage,7,127700.0,0.0,893900.0,-82575.81
+NG-2025029,2025-08-05,Kano,Corporate,Office Supplies,Labels,12,7000.0,0.15,84000.0,29303.88
+NG-2025030,2025-06-01,Abuja,Consumer,Technology,Laptops,4,188200.0,0.15,752800.0,146641.73
+NG-2025031,2025-10-27,Lagos,Consumer,Furniture,Bookcases,8,93700.0,0.0,749600.0,111279.59
+NG-2025032,2025-11-01,Abuja,Consumer,Furniture,Chairs,2,108400.0,0.0,216800.0,-14672.73
+NG-2025033,2025-01-21,Ibadan,Small Business,Technology,Accessories,10,81800.0,0.15,818000.0,175332.81
+NG-2025034,2025-12-09,Port Harcourt,Consumer,Technology,Copiers,12,109700.0,0.0,1316400.0,153233.74
+NG-2025035,2025-02-07,Kano,Corporate,Technology,Copiers,1,127000.0,0.0,127000.0,38050.93
+NG-2025036,2025-03-09,Ibadan,Corporate,Furniture,Tables,6,125900.0,0.0,755400.0,119160.26
+NG-2025037,2025-12-27,Kano,Small Business,Office Supplies,Paper,5,5500.0,0.2,27500.0,9537.23
+NG-2025038,2025-12-06,Ibadan,Corporate,Technology,Phones,2,184700.0,0.0,369400.0,30871.78
+NG-2025039,2025-11-06,Port Harcourt,Corporate,Furniture,Tables,4,112000.0,0.2,448000.0,-35275.94
+NG-2025040,2025-02-17,Port Harcourt,Consumer,Office Supplies,Envelopes,11,4600.0,0.0,50600.0,8560.0
+NG-2025041,2025-08-15,Port Harcourt,Consumer,Office Supplies,Paper,9,5900.0,0.0,53100.0,12756.04
+NG-2025042,2025-07-09,Ibadan,Consumer,Furniture,Tables,10,98000.0,0.0,980000.0,416.84
+NG-2025043,2025-04-18,Lagos,Corporate,Office Supplies,Labels,11,3800.0,0.15,41800.0,5254.19
+NG-2025044,2025-04-01,Abuja,Consumer,Office Supplies,Paper,7,2800.0,0.0,19600.0,5569.17
+NG-2025045,2025-12-26,Port Harcourt,Consumer,Office Supplies,Paper,2,4400.0,0.1,8800.0,965.19
+NG-2025046,2025-06-06,Kano,Corporate,Furniture,Tables,4,69900.0,0.1,279600.0,22650.85
+NG-2025047,2025-06-29,Lagos,Corporate,Office Supplies,Labels,11,5000.0,0.15,55000.0,14843.37
+NG-2025048,2025-04-02,Lagos,Corporate,Office Supplies,Binders,10,7000.0,0.0,70000.0,11645.66
+NG-2025049,2025-06-10,Port Harcourt,Small Business,Technology,Laptops,7,144700.0,0.1,1012900.0,180150.1
+NG-2025050,2025-12-29,Port Harcourt,Consumer,Technology,Accessories,7,72200.0,0.15,505400.0,142216.42
+NG-2025051,2025-02-05,Port Harcourt,Corporate,Technology,Accessories,11,182500.0,0.2,2007500.0,413121.12
+NG-2025052,2025-12-08,Ibadan,Corporate,Furniture,Bookcases,7,78700.0,0.15,550900.0,51797.24
+NG-2025053,2025-07-14,Kano,Small Business,Furniture,Tables,11,114600.0,0.15,1260600.0,-112307.4
+NG-2025054,2025-06-05,Ibadan,Consumer,Office Supplies,Envelopes,5,3600.0,0.15,18000.0,5335.91
+NG-2025055,2025-08-15,Kano,Corporate,Technology,Copiers,11,97600.0,0.2,1073600.0,180683.17
+NG-2025056,2025-12-06,Port Harcourt,Small Business,Furniture,Chairs,11,103600.0,0.0,1139600.0,-133691.58
+NG-2025057,2025-03-17,Abuja,Consumer,Technology,Copiers,1,77500.0,0.15,77500.0,22938.76
+NG-2025058,2025-10-22,Kano,Small Business,Furniture,Storage,4,112100.0,0.1,448400.0,-6998.42
+NG-2025059,2025-08-06,Lagos,Consumer,Furniture,Tables,4,66000.0,0.15,264000.0,48916.06
+NG-2025060,2025-03-04,Ibadan,Consumer,Office Supplies,Binders,8,3300.0,0.15,26400.0,5706.65
+NG-2025061,2025-09-16,Kano,Small Business,Technology,Copiers,7,171700.0,0.0,1201900.0,224716.82
+NG-2025062,2025-05-07,Kano,Corporate,Technology,Laptops,11,105300.0,0.1,1158300.0,283110.19
+NG-2025063,2025-02-09,Port Harcourt,Corporate,Technology,Accessories,12,106300.0,0.0,1275600.0,150429.95
+NG-2025064,2025-04-29,Abuja,Consumer,Technology,Phones,7,155300.0,0.0,1087100.0,246342.06
+NG-2025065,2025-08-27,Port Harcourt,Small Business,Office Supplies,Envelopes,7,3000.0,0.1,21000.0,6472.68
+NG-2025066,2025-09-02,Ibadan,Corporate,Technology,Phones,1,185100.0,0.1,185100.0,23073.3
+NG-2025067,2025-05-20,Kano,Consumer,Office Supplies,Paper,7,4900.0,0.2,34300.0,6764.45
+NG-2025068,2025-03-07,Abuja,Corporate,Technology,Laptops,10,136100.0,0.15,1361000.0,376632.55
+NG-2025069,2025-08-08,Lagos,Small Business,Technology,Phones,3,176000.0,0.0,528000.0,50388.23
+NG-2025070,2025-06-17,Abuja,Corporate,Office Supplies,Labels,6,6100.0,0.1,36600.0,7129.0
+NG-2025071,2025-10-04,Kano,Consumer,Office Supplies,Binders,1,7200.0,0.2,7200.0,1349.93
+NG-2025072,2025-04-13,Lagos,Consumer,Furniture,Chairs,1,103800.0,0.1,103800.0,-6903.66
+NG-2025073,2025-08-27,Ibadan,Consumer,Technology,Phones,12,102700.0,0.15,1232400.0,175276.6
+NG-2025074,2025-02-25,Abuja,Corporate,Technology,Phones,10,75100.0,0.2,751000.0,96119.97
+NG-2025075,2025-10-31,Abuja,Consumer,Office Supplies,Envelopes,12,6400.0,0.2,76800.0,12342.71
+NG-2025076,2025-06-27,Ibadan,Consumer,Office Supplies,Binders,9,4600.0,0.15,41400.0,7975.41
+NG-2025077,2025-09-08,Lagos,Corporate,Technology,Copiers,2,124000.0,0.1,248000.0,34855.66
+NG-2025078,2025-09-25,Kano,Consumer,Technology,Accessories,11,104400.0,0.15,1148400.0,289454.0
+NG-2025079,2025-10-31,Kano,Small Business,Office Supplies,Envelopes,5,4200.0,0.0,21000.0,3388.85
+NG-2025080,2025-10-19,Abuja,Corporate,Office Supplies,Envelopes,10,5700.0,0.1,57000.0,10493.65
+NG-2025081,2025-07-01,Kano,Consumer,Office Supplies,Paper,5,4200.0,0.2,21000.0,6721.68
+NG-2025082,2025-02-13,Ibadan,Consumer,Office Supplies,Binders,4,5900.0,0.0,23600.0,5242.61
+NG-2025083,2025-01-09,Kano,Corporate,Technology,Laptops,2,107300.0,0.0,214600.0,32426.12
+NG-2025084,2025-09-29,Kano,Small Business,Office Supplies,Labels,6,4600.0,0.0,27600.0,7906.95
+NG-2025085,2025-05-09,Port Harcourt,Corporate,Office Supplies,Envelopes,4,3200.0,0.0,12800.0,1896.27
+NG-2025086,2025-09-05,Abuja,Consumer,Technology,Accessories,5,159000.0,0.15,795000.0,233850.65
+NG-2025087,2025-06-01,Lagos,Consumer,Technology,Copiers,4,115300.0,0.2,461200.0,57911.45
+NG-2025088,2025-01-28,Port Harcourt,Consumer,Technology,Accessories,9,107100.0,0.2,963900.0,275696.99
+NG-2025089,2025-05-26,Lagos,Small Business,Office Supplies,Binders,8,4900.0,0.0,39200.0,7258.92
+NG-2025090,2025-07-25,Lagos,Consumer,Office Supplies,Envelopes,8,3000.0,0.0,24000.0,6176.67
+NG-2025091,2025-02-13,Ibadan,Corporate,Furniture,Tables,4,61100.0,0.15,244400.0,28730.49
+NG-2025092,2025-08-19,Ibadan,Corporate,Technology,Accessories,8,107700.0,0.1,861600.0,169848.31
+NG-2025093,2025-02-20,Ibadan,Small Business,Office Supplies,Binders,4,5500.0,0.0,22000.0,3655.55
+NG-2025094,2025-02-08,Abuja,Small Business,Furniture,Tables,3,51200.0,0.15,153600.0,1179.08
+NG-2025095,2025-05-28,Lagos,Consumer,Office Supplies,Labels,12,4000.0,0.0,48000.0,15115.28
+NG-2025096,2025-10-29,Port Harcourt,Small Business,Technology,Accessories,11,168500.0,0.0,1853500.0,184339.48
+NG-2025097,2025-03-14,Abuja,Corporate,Technology,Accessories,2,79200.0,0.15,158400.0,39308.09
+NG-2025098,2025-08-28,Kano,Consumer,Technology,Copiers,12,108500.0,0.0,1302000.0,196116.52
+NG-2025099,2025-11-03,Kano,Consumer,Technology,Laptops,1,178700.0,0.15,178700.0,41750.3
+NG-2025100,2025-12-12,Lagos,Consumer,Office Supplies,Binders,10,5300.0,0.2,53000.0,5574.88
+NG-2025101,2025-09-23,Abuja,Corporate,Office Supplies,Binders,11,4700.0,0.15,51700.0,8765.17
+NG-2025102,2025-06-28,Lagos,Corporate,Office Supplies,Envelopes,7,4200.0,0.0,29400.0,7865.48
+NG-2025103,2025-12-06,Kano,Corporate,Office Supplies,Envelopes,7,6400.0,0.1,44800.0,10641.08
+NG-2025104,2025-03-01,Port Harcourt,Corporate,Furniture,Bookcases,7,124500.0,0.0,871500.0,120898.42
+NG-2025105,2025-04-07,Kano,Consumer,Technology,Laptops,9,115400.0,0.2,1038600.0,248340.46
+NG-2025106,2025-10-09,Abuja,Corporate,Office Supplies,Binders,3,6900.0,0.2,20700.0,4337.25
+NG-2025107,2025-11-08,Lagos,Small Business,Office Supplies,Binders,4,5900.0,0.0,23600.0,4193.43
+NG-2025108,2025-02-28,Lagos,Consumer,Technology,Laptops,8,185600.0,0.0,1484800.0,314669.84
+NG-2025109,2025-05-20,Ibadan,Small Business,Office Supplies,Labels,7,6500.0,0.0,45500.0,15700.28
+NG-2025110,2025-11-03,Kano,Consumer,Office Supplies,Paper,9,6100.0,0.0,54900.0,7363.58
+NG-2025111,2025-05-17,Port Harcourt,Small Business,Office Supplies,Envelopes,1,4000.0,0.15,4000.0,698.56
+NG-2025112,2025-10-03,Abuja,Corporate,Technology,Laptops,8,113400.0,0.15,907200.0,170534.87
+NG-2025113,2025-12-24,Port Harcourt,Consumer,Office Supplies,Envelopes,4,5300.0,0.1,21200.0,3357.88
+NG-2025114,2025-07-15,Kano,Small Business,Furniture,Bookcases,7,135000.0,0.2,945000.0,120334.2
+NG-2025115,2025-09-15,Lagos,Consumer,Furniture,Storage,10,79200.0,0.1,792000.0,-90978.93
+NG-2025116,2025-03-15,Lagos,Small Business,Furniture,Storage,7,125000.0,0.0,875000.0,165799.27
+NG-2025117,2025-12-21,Port Harcourt,Small Business,Office Supplies,Labels,7,5600.0,0.2,39200.0,12267.3
+NG-2025118,2025-09-07,Port Harcourt,Small Business,Technology,Laptops,9,76300.0,0.2,686700.0,46081.13
+NG-2025119,2025-02-16,Abuja,Small Business,Technology,Copiers,7,189400.0,0.2,1325800.0,318314.53
+NG-2025120,2025-06-03,Abuja,Small Business,Furniture,Storage,1,54900.0,0.0,54900.0,7062.9
+NG-2025121,2025-05-06,Kano,Consumer,Office Supplies,Labels,9,4600.0,0.0,41400.0,11196.63
+NG-2025122,2025-07-15,Lagos,Small Business,Furniture,Tables,10,109100.0,0.15,1091000.0,26384.24
+NG-2025123,2025-05-11,Kano,Small Business,Furniture,Tables,8,72700.0,0.1,581600.0,-85327.06
+NG-2025124,2025-06-26,Lagos,Corporate,Office Supplies,Paper,10,4000.0,0.2,40000.0,13620.29
+NG-2025125,2025-07-16,Port Harcourt,Consumer,Office Supplies,Envelopes,8,3200.0,0.0,25600.0,5000.73
+NG-2025126,2025-12-04,Port Harcourt,Consumer,Technology,Copiers,7,104900.0,0.2,734300.0,140605.42
+NG-2025127,2025-09-12,Ibadan,Small Business,Technology,Phones,5,165100.0,0.0,825500.0,88765.68
+NG-2025128,2025-12-14,Ibadan,Corporate,Furniture,Tables,12,116200.0,0.0,1394400.0,123124.52
+NG-2025129,2025-08-14,Lagos,Corporate,Technology,Phones,1,141500.0,0.0,141500.0,32982.23
+NG-2025130,2025-04-13,Kano,Consumer,Office Supplies,Labels,3,6200.0,0.0,18600.0,5935.54
+NG-2025131,2025-09-04,Abuja,Corporate,Technology,Copiers,5,161600.0,0.0,808000.0,108820.48
+NG-2025132,2025-12-13,Abuja,Consumer,Office Supplies,Binders,12,5700.0,0.15,68400.0,13635.74
+NG-2025133,2025-05-16,Kano,Consumer,Office Supplies,Binders,9,3300.0,0.2,29700.0,5706.75
+NG-2025134,2025-11-23,Ibadan,Corporate,Technology,Copiers,6,85000.0,0.0,510000.0,55312.29
+NG-2025135,2025-11-28,Ibadan,Consumer,Technology,Copiers,2,148200.0,0.2,296400.0,49222.22
+NG-2025136,2025-01-24,Lagos,Consumer,Office Supplies,Envelopes,1,4100.0,0.0,4100.0,914.94
+NG-2025137,2025-07-09,Kano,Corporate,Furniture,Tables,11,131700.0,0.15,1448700.0,135843.73
+NG-2025138,2025-02-20,Kano,Small Business,Office Supplies,Paper,8,5500.0,0.0,44000.0,14729.58
+NG-2025139,2025-08-16,Abuja,Corporate,Furniture,Bookcases,4,123700.0,0.2,494800.0,-57013.77
+NG-2025140,2025-05-22,Lagos,Corporate,Office Supplies,Labels,4,7100.0,0.1,28400.0,9577.98
+NG-2025141,2025-01-26,Ibadan,Consumer,Furniture,Tables,6,71700.0,0.15,430200.0,-45569.64
+NG-2025142,2025-10-28,Ibadan,Consumer,Furniture,Chairs,4,120100.0,0.0,480400.0,-32883.6
+NG-2025143,2025-03-08,Port Harcourt,Consumer,Technology,Phones,9,102100.0,0.2,918900.0,86031.35
+NG-2025144,2025-05-02,Lagos,Corporate,Furniture,Tables,10,78500.0,0.0,785000.0,-69875.86
+NG-2025145,2025-02-02,Ibadan,Consumer,Furniture,Storage,8,89100.0,0.15,712800.0,-16598.52
+NG-2025146,2025-11-11,Ibadan,Consumer,Furniture,Storage,1,112800.0,0.2,112800.0,18957.52
+NG-2025147,2025-01-16,Kano,Small Business,Technology,Copiers,1,191800.0,0.1,191800.0,50217.97
+NG-2025148,2025-08-16,Kano,Small Business,Technology,Phones,2,179900.0,0.0,359800.0,46963.96
+NG-2025149,2025-11-21,Port Harcourt,Small Business,Furniture,Tables,10,97600.0,0.15,976000.0,-35316.65
+NG-2025150,2025-11-06,Kano,Small Business,Technology,Copiers,7,83900.0,0.2,587300.0,132403.76
+NG-2025151,2025-04-27,Kano,Corporate,Technology,Accessories,7,112700.0,0.1,788900.0,128886.32
+NG-2025152,2025-06-10,Port Harcourt,Corporate,Technology,Phones,11,102600.0,0.2,1128600.0,325486.13
+NG-2025153,2025-02-17,Lagos,Consumer,Office Supplies,Binders,7,3100.0,0.0,21700.0,6177.97
+NG-2025154,2025-10-15,Ibadan,Small Business,Technology,Phones,6,152400.0,0.2,914400.0,139630.85
+NG-2025155,2025-06-09,Port Harcourt,Small Business,Office Supplies,Binders,6,3200.0,0.0,19200.0,4355.58
+NG-2025156,2025-06-29,Abuja,Consumer,Technology,Laptops,9,116100.0,0.15,1044900.0,251456.66
+NG-2025157,2025-11-11,Ibadan,Small Business,Furniture,Storage,11,105600.0,0.2,1161600.0,-163566.24
+NG-2025158,2025-05-20,Lagos,Consumer,Technology,Copiers,12,163500.0,0.0,1962000.0,550114.15
+NG-2025159,2025-12-03,Abuja,Small Business,Furniture,Tables,7,56900.0,0.0,398300.0,43549.79
+NG-2025160,2025-08-21,Kano,Corporate,Furniture,Tables,6,64400.0,0.0,386400.0,-15814.16
+NG-2025161,2025-03-22,Lagos,Consumer,Technology,Phones,10,78000.0,0.1,780000.0,54908.4
+NG-2025162,2025-08-15,Kano,Small Business,Technology,Laptops,7,104800.0,0.0,733600.0,175136.57
+NG-2025163,2025-12-14,Lagos,Corporate,Office Supplies,Envelopes,11,5400.0,0.0,59400.0,13764.97
+NG-2025164,2025-01-29,Kano,Small Business,Furniture,Tables,1,68400.0,0.0,68400.0,12371.06
+NG-2025165,2025-01-04,Port Harcourt,Consumer,Office Supplies,Labels,8,6100.0,0.1,48800.0,7023.48
+NG-2025166,2025-12-09,Ibadan,Small Business,Technology,Accessories,6,80600.0,0.0,483600.0,128367.31
+NG-2025167,2025-06-10,Kano,Consumer,Office Supplies,Binders,10,4600.0,0.2,46000.0,9250.86
+NG-2025168,2025-01-11,Lagos,Corporate,Office Supplies,Labels,6,3500.0,0.1,21000.0,7074.98
+NG-2025169,2025-02-24,Lagos,Corporate,Technology,Copiers,4,124300.0,0.0,497200.0,74635.91
+NG-2025170,2025-06-20,Port Harcourt,Consumer,Office Supplies,Labels,3,3000.0,0.15,9000.0,2324.76
+NG-2025171,2025-11-27,Port Harcourt,Corporate,Technology,Accessories,3,100400.0,0.0,301200.0,26087.25
+NG-2025172,2025-11-18,Lagos,Consumer,Furniture,Tables,8,90400.0,0.15,723200.0,34212.73
+NG-2025173,2025-08-14,Port Harcourt,Consumer,Office Supplies,Labels,2,4800.0,0.0,9600.0,2475.32
+NG-2025174,2025-02-07,Port Harcourt,Small Business,Technology,Phones,5,127400.0,0.0,637000.0,37838.95
+NG-2025175,2025-11-01,Lagos,Small Business,Office Supplies,Binders,9,4400.0,0.2,39600.0,9705.26
+NG-2025176,2025-04-07,Ibadan,Small Business,Furniture,Storage,6,102400.0,0.0,614400.0,15654.02
+NG-2025177,2025-02-13,Port Harcourt,Small Business,Office Supplies,Binders,9,5600.0,0.2,50400.0,5533.19
+NG-2025178,2025-11-09,Ibadan,Small Business,Office Supplies,Envelopes,3,4300.0,0.1,12900.0,4250.35
+NG-2025179,2025-11-20,Ibadan,Consumer,Office Supplies,Labels,11,4200.0,0.15,46200.0,8427.93
+NG-2025180,2025-12-03,Port Harcourt,Corporate,Technology,Laptops,10,176800.0,0.15,1768000.0,235746.02
+NG-2025181,2025-12-02,Port Harcourt,Corporate,Technology,Accessories,12,151500.0,0.2,1818000.0,149508.53
+NG-2025182,2025-11-26,Ibadan,Corporate,Furniture,Bookcases,6,120100.0,0.2,720600.0,60920.06
+NG-2025183,2025-07-05,Kano,Small Business,Technology,Phones,1,115500.0,0.0,115500.0,10980.09
+NG-2025184,2025-03-12,Abuja,Consumer,Office Supplies,Envelopes,3,3000.0,0.0,9000.0,2799.96
+NG-2025185,2025-03-09,Port Harcourt,Small Business,Technology,Phones,10,117200.0,0.2,1172000.0,106138.43
+NG-2025186,2025-07-30,Kano,Consumer,Technology,Accessories,6,153200.0,0.1,919200.0,100544.44
+NG-2025187,2025-10-01,Kano,Consumer,Technology,Copiers,4,109100.0,0.1,436400.0,110040.86
+NG-2025188,2025-08-25,Ibadan,Corporate,Furniture,Bookcases,5,117100.0,0.1,585500.0,15233.15
+NG-2025189,2025-05-09,Ibadan,Consumer,Furniture,Tables,1,105500.0,0.15,105500.0,16451.77
+NG-2025190,2025-03-24,Port Harcourt,Consumer,Furniture,Chairs,5,89200.0,0.1,446000.0,13234.36
+NG-2025191,2025-01-14,Kano,Corporate,Furniture,Tables,7,55500.0,0.0,388500.0,9985.42
+NG-2025192,2025-01-15,Port Harcourt,Consumer,Office Supplies,Binders,6,6900.0,0.2,41400.0,12825.47
+NG-2025193,2025-05-27,Abuja,Consumer,Office Supplies,Paper,8,5800.0,0.2,46400.0,6250.0
+NG-2025194,2025-02-10,Ibadan,Consumer,Office Supplies,Envelopes,1,3900.0,0.15,3900.0,1204.09
+NG-2025195,2025-05-02,Lagos,Corporate,Technology,Laptops,5,86600.0,0.2,433000.0,47461.08
+NG-2025196,2025-09-13,Lagos,Consumer,Technology,Laptops,10,136300.0,0.15,1363000.0,283488.65
+NG-2025197,2025-01-01,Port Harcourt,Corporate,Furniture,Tables,10,81000.0,0.0,810000.0,40283.16
+NG-2025198,2025-02-04,Ibadan,Corporate,Technology,Phones,9,137300.0,0.15,1235700.0,304727.43
+NG-2025199,2025-01-23,Kano,Corporate,Technology,Phones,11,118400.0,0.2,1302400.0,186667.26
+NG-2025200,2025-05-04,Lagos,Corporate,Furniture,Bookcases,12,106900.0,0.15,1282800.0,-145877.0
+NG-2025201,2025-06-30,Abuja,Consumer,Technology,Copiers,9,112600.0,0.2,1013400.0,213522.27
+NG-2025202,2025-02-02,Abuja,Consumer,Office Supplies,Envelopes,12,6200.0,0.0,74400.0,15952.84
+NG-2025203,2025-06-11,Abuja,Consumer,Furniture,Chairs,5,94800.0,0.15,474000.0,92995.46
+NG-2025204,2025-04-08,Lagos,Small Business,Office Supplies,Labels,5,4300.0,0.2,21500.0,6347.02
+NG-2025205,2025-08-12,Lagos,Corporate,Office Supplies,Labels,7,6000.0,0.1,42000.0,13593.69
+NG-2025206,2025-09-12,Kano,Small Business,Office Supplies,Paper,6,6900.0,0.0,41400.0,9514.51
+NG-2025207,2025-11-05,Lagos,Corporate,Technology,Laptops,3,137500.0,0.0,412500.0,53749.93
+NG-2025208,2025-11-05,Port Harcourt,Corporate,Office Supplies,Labels,12,4600.0,0.0,55200.0,15038.75
+NG-2025209,2025-08-11,Port Harcourt,Small Business,Office Supplies,Binders,5,5600.0,0.0,28000.0,8340.34
+NG-2025210,2025-12-14,Port Harcourt,Small Business,Furniture,Storage,3,132000.0,0.15,396000.0,-39610.77
+NG-2025211,2025-02-04,Lagos,Consumer,Technology,Laptops,4,165400.0,0.1,661600.0,93670.73
+NG-2025212,2025-12-14,Ibadan,Consumer,Technology,Phones,8,185900.0,0.0,1487200.0,212674.57
+NG-2025213,2025-07-23,Ibadan,Corporate,Technology,Accessories,6,149900.0,0.0,899400.0,101095.18
+NG-2025214,2025-07-18,Kano,Small Business,Furniture,Tables,9,61000.0,0.2,549000.0,66559.43
+NG-2025215,2025-12-22,Ibadan,Corporate,Office Supplies,Paper,8,3600.0,0.0,28800.0,3857.24
+NG-2025216,2025-12-16,Kano,Consumer,Office Supplies,Paper,6,5700.0,0.15,34200.0,9486.57
+NG-2025217,2025-12-31,Port Harcourt,Consumer,Technology,Copiers,12,183300.0,0.0,2199600.0,460651.24
+NG-2025218,2025-03-13,Lagos,Consumer,Technology,Accessories,4,166800.0,0.15,667200.0,37744.18
+NG-2025219,2025-03-08,Kano,Small Business,Technology,Copiers,10,178100.0,0.1,1781000.0,118324.34
+NG-2025220,2025-07-29,Ibadan,Corporate,Technology,Laptops,10,80900.0,0.2,809000.0,237113.8
+NG-2025221,2025-09-22,Kano,Small Business,Furniture,Storage,6,61900.0,0.15,371400.0,52058.69
+NG-2025222,2025-09-15,Abuja,Corporate,Technology,Accessories,1,171800.0,0.0,171800.0,30842.49
+NG-2025223,2025-04-26,Port Harcourt,Small Business,Furniture,Tables,6,131500.0,0.0,789000.0,24943.63
+NG-2025224,2025-10-10,Abuja,Small Business,Furniture,Bookcases,5,61600.0,0.15,308000.0,-13555.51
+NG-2025225,2025-03-20,Ibadan,Small Business,Furniture,Tables,3,107000.0,0.15,321000.0,32813.09
+NG-2025226,2025-01-24,Lagos,Consumer,Office Supplies,Binders,11,6200.0,0.0,68200.0,11332.38
+NG-2025227,2025-01-16,Ibadan,Small Business,Technology,Laptops,8,178700.0,0.2,1429600.0,266469.39
+NG-2025228,2025-07-27,Abuja,Small Business,Office Supplies,Envelopes,5,4700.0,0.0,23500.0,6395.6
+NG-2025229,2025-04-15,Kano,Corporate,Office Supplies,Envelopes,6,5400.0,0.2,32400.0,5771.92
+NG-2025230,2025-07-09,Kano,Consumer,Office Supplies,Labels,9,5200.0,0.1,46800.0,8413.66
+NG-2025231,2025-03-14,Kano,Consumer,Furniture,Bookcases,2,55300.0,0.15,110600.0,20005.85
+NG-2025232,2025-10-23,Abuja,Corporate,Office Supplies,Paper,12,4100.0,0.1,49200.0,14306.39
+NG-2025233,2025-09-12,Kano,Corporate,Technology,Laptops,1,82800.0,0.1,82800.0,12280.11
+NG-2025234,2025-01-25,Ibadan,Corporate,Furniture,Tables,1,74900.0,0.2,74900.0,4428.95
+NG-2025235,2025-01-05,Port Harcourt,Small Business,Technology,Laptops,2,123700.0,0.2,247400.0,66949.89
+NG-2025236,2025-07-25,Port Harcourt,Consumer,Office Supplies,Envelopes,1,5300.0,0.15,5300.0,787.92
+NG-2025237,2025-08-19,Kano,Small Business,Office Supplies,Binders,9,4000.0,0.2,36000.0,12501.82
+NG-2025238,2025-07-21,Abuja,Consumer,Technology,Phones,6,167400.0,0.0,1004400.0,135364.32
+NG-2025239,2025-07-25,Ibadan,Small Business,Furniture,Tables,9,54400.0,0.2,489600.0,-66771.7
+NG-2025240,2025-03-18,Ibadan,Corporate,Office Supplies,Envelopes,10,6700.0,0.15,67000.0,9041.33
+NG-2025241,2025-06-03,Kano,Small Business,Office Supplies,Paper,10,4200.0,0.15,42000.0,12897.04
+NG-2025242,2025-07-08,Kano,Consumer,Office Supplies,Labels,6,5700.0,0.15,34200.0,11798.13
+NG-2025243,2025-05-16,Ibadan,Corporate,Office Supplies,Binders,11,6200.0,0.15,68200.0,20053.56
+NG-2025244,2025-03-29,Ibadan,Corporate,Furniture,Chairs,9,104500.0,0.1,940500.0,62926.53
+NG-2025245,2025-12-25,Lagos,Small Business,Furniture,Tables,2,67200.0,0.1,134400.0,586.45
+NG-2025246,2025-09-14,Abuja,Corporate,Furniture,Storage,10,129200.0,0.2,1292000.0,200888.17
+NG-2025247,2025-04-17,Abuja,Small Business,Technology,Phones,9,111000.0,0.15,999000.0,215341.14
+NG-2025248,2025-09-30,Abuja,Corporate,Office Supplies,Labels,6,5200.0,0.2,31200.0,8391.77
+NG-2025249,2025-04-09,Ibadan,Corporate,Technology,Copiers,4,105500.0,0.0,422000.0,52591.66
+NG-2025250,2025-09-03,Kano,Corporate,Office Supplies,Paper,6,5200.0,0.2,31200.0,10408.99
+NG-2025251,2025-12-13,Lagos,Small Business,Office Supplies,Labels,9,4400.0,0.0,39600.0,13663.59
+NG-2025252,2025-02-10,Lagos,Corporate,Furniture,Bookcases,6,129500.0,0.2,777000.0,61841.6
+NG-2025253,2025-05-19,Abuja,Small Business,Office Supplies,Paper,9,5800.0,0.15,52200.0,7011.41
+NG-2025254,2025-12-09,Abuja,Consumer,Technology,Accessories,9,99100.0,0.0,891900.0,96511.73
+NG-2025255,2025-12-15,Kano,Consumer,Office Supplies,Labels,3,2700.0,0.0,8100.0,1924.46
+NG-2025256,2025-04-13,Kano,Small Business,Office Supplies,Envelopes,5,4100.0,0.0,20500.0,5360.23
+NG-2025257,2025-01-20,Ibadan,Small Business,Technology,Accessories,3,122100.0,0.0,366300.0,95018.67
+NG-2025258,2025-05-29,Abuja,Small Business,Office Supplies,Envelopes,1,2700.0,0.0,2700.0,653.37
+NG-2025259,2025-10-06,Kano,Small Business,Office Supplies,Labels,9,4900.0,0.15,44100.0,14757.63
+NG-2025260,2025-06-19,Abuja,Consumer,Office Supplies,Labels,3,6000.0,0.2,18000.0,4717.28
+NG-2025261,2025-10-18,Port Harcourt,Corporate,Furniture,Chairs,11,115400.0,0.2,1269400.0,-112439.36
+NG-2025262,2025-02-14,Ibadan,Corporate,Office Supplies,Envelopes,7,5700.0,0.0,39900.0,5833.19
+NG-2025263,2025-05-14,Abuja,Consumer,Office Supplies,Labels,7,3800.0,0.0,26600.0,7672.48
+NG-2025264,2025-07-04,Port Harcourt,Small Business,Office Supplies,Binders,12,3800.0,0.1,45600.0,12172.76
+NG-2025265,2025-09-15,Kano,Small Business,Office Supplies,Paper,12,6200.0,0.2,74400.0,20279.4
+NG-2025266,2025-04-23,Ibadan,Consumer,Office Supplies,Labels,3,4900.0,0.15,14700.0,3142.05
+NG-2025267,2025-10-03,Ibadan,Corporate,Office Supplies,Envelopes,11,6400.0,0.2,70400.0,20448.73
+NG-2025268,2025-09-28,Ibadan,Corporate,Technology,Phones,12,115400.0,0.0,1384800.0,386790.12
+NG-2025269,2025-03-18,Ibadan,Small Business,Furniture,Tables,3,78900.0,0.0,236700.0,7602.69
+NG-2025270,2025-02-16,Ibadan,Corporate,Technology,Accessories,9,125500.0,0.0,1129500.0,72185.16
+NG-2025271,2025-01-30,Kano,Small Business,Technology,Laptops,9,127500.0,0.2,1147500.0,288858.84
+NG-2025272,2025-04-22,Port Harcourt,Consumer,Furniture,Storage,10,57200.0,0.2,572000.0,-975.78
+NG-2025273,2025-01-17,Lagos,Corporate,Furniture,Chairs,5,85800.0,0.2,429000.0,51111.16
+NG-2025274,2025-08-18,Port Harcourt,Corporate,Technology,Laptops,7,117100.0,0.2,819700.0,180893.52
+NG-2025275,2025-04-02,Port Harcourt,Consumer,Technology,Accessories,9,119200.0,0.0,1072800.0,87794.49
+NG-2025276,2025-12-11,Port Harcourt,Corporate,Furniture,Chairs,12,97300.0,0.0,1167600.0,42239.99
+NG-2025277,2025-05-22,Port Harcourt,Consumer,Furniture,Storage,4,130700.0,0.0,522800.0,54244.88
+NG-2025278,2025-05-04,Ibadan,Consumer,Furniture,Storage,4,56700.0,0.1,226800.0,13127.29
+NG-2025279,2025-01-23,Abuja,Small Business,Technology,Phones,7,124700.0,0.0,872900.0,161434.08
+NG-2025280,2025-10-22,Abuja,Small Business,Furniture,Bookcases,6,100100.0,0.0,600600.0,72305.26
+NG-2025281,2025-09-24,Abuja,Small Business,Furniture,Bookcases,4,86200.0,0.15,344800.0,-18514.42
+NG-2025282,2025-09-11,Kano,Small Business,Technology,Accessories,1,188700.0,0.2,188700.0,53854.34
+NG-2025283,2025-03-18,Kano,Corporate,Office Supplies,Labels,5,4400.0,0.1,22000.0,6349.29
+NG-2025284,2025-03-15,Port Harcourt,Small Business,Furniture,Tables,8,128800.0,0.1,1030400.0,48258.87
+NG-2025285,2025-05-11,Kano,Consumer,Technology,Accessories,4,111600.0,0.1,446400.0,31144.26
+NG-2025286,2025-04-08,Ibadan,Small Business,Office Supplies,Binders,1,3900.0,0.15,3900.0,1046.83
+NG-2025287,2025-12-10,Abuja,Small Business,Furniture,Chairs,9,69400.0,0.0,624600.0,-48024.76
+NG-2025288,2025-03-02,Abuja,Consumer,Office Supplies,Binders,12,7200.0,0.0,86400.0,18984.69
+NG-2025289,2025-10-10,Kano,Consumer,Technology,Accessories,6,165100.0,0.15,990600.0,143800.88
+NG-2025290,2025-07-04,Port Harcourt,Corporate,Technology,Copiers,9,177900.0,0.2,1601100.0,266584.78
+NG-2025291,2025-06-10,Abuja,Corporate,Office Supplies,Labels,7,2900.0,0.2,20300.0,6415.23
+NG-2025292,2025-10-27,Port Harcourt,Small Business,Furniture,Chairs,10,112200.0,0.0,1122000.0,-52377.99
+NG-2025293,2025-05-06,Kano,Small Business,Office Supplies,Paper,8,5200.0,0.0,41600.0,13972.03
+NG-2025294,2025-03-28,Kano,Corporate,Office Supplies,Envelopes,12,6300.0,0.2,75600.0,10759.12
+NG-2025295,2025-11-25,Abuja,Small Business,Technology,Laptops,1,134900.0,0.0,134900.0,35042.58
+NG-2025296,2025-03-12,Lagos,Corporate,Technology,Phones,11,99800.0,0.0,1097800.0,248972.69
+NG-2025297,2025-11-13,Port Harcourt,Consumer,Furniture,Storage,11,107700.0,0.1,1184700.0,77931.67
+NG-2025298,2025-09-30,Lagos,Consumer,Technology,Laptops,9,121400.0,0.2,1092600.0,59198.75
+NG-2025299,2025-12-24,Lagos,Small Business,Office Supplies,Labels,11,4600.0,0.0,50600.0,16947.36
+NG-2025300,2025-05-04,Ibadan,Consumer,Furniture,Chairs,4,103700.0,0.0,414800.0,-25573.93
+NG-2025301,2025-07-27,Lagos,Corporate,Office Supplies,Envelopes,8,5200.0,0.0,41600.0,14458.42
+NG-2025302,2025-07-27,Lagos,Consumer,Office Supplies,Binders,7,4400.0,0.2,30800.0,6745.24
+NG-2025303,2025-08-11,Lagos,Corporate,Furniture,Tables,11,117700.0,0.0,1294700.0,62210.1
+NG-2025304,2025-12-21,Abuja,Consumer,Technology,Phones,10,129100.0,0.0,1291000.0,79577.88
+NG-2025305,2025-12-03,Ibadan,Small Business,Technology,Copiers,1,93500.0,0.0,93500.0,24553.75
+NG-2025306,2025-06-03,Kano,Consumer,Furniture,Tables,3,98900.0,0.1,296700.0,14343.54
+NG-2025307,2025-03-13,Kano,Small Business,Technology,Copiers,12,158900.0,0.0,1906800.0,334067.95
+NG-2025308,2025-02-08,Kano,Consumer,Furniture,Chairs,6,102400.0,0.15,614400.0,39845.58
+NG-2025309,2025-05-20,Lagos,Small Business,Office Supplies,Labels,8,4900.0,0.1,39200.0,7406.95
+NG-2025310,2025-07-14,Ibadan,Small Business,Office Supplies,Paper,2,6200.0,0.0,12400.0,2155.68
+NG-2025311,2025-03-20,Lagos,Corporate,Technology,Phones,7,157400.0,0.2,1101800.0,229698.0
+NG-2025312,2025-02-16,Port Harcourt,Consumer,Office Supplies,Labels,1,6900.0,0.0,6900.0,1457.17
+NG-2025313,2025-08-09,Lagos,Consumer,Furniture,Tables,8,98300.0,0.0,786400.0,23084.22
+NG-2025314,2025-02-17,Port Harcourt,Small Business,Furniture,Chairs,10,101800.0,0.1,1018000.0,-37105.47
+NG-2025315,2025-02-13,Kano,Corporate,Furniture,Bookcases,12,127600.0,0.0,1531200.0,255438.84
+NG-2025316,2025-03-13,Kano,Consumer,Technology,Accessories,5,108100.0,0.0,540500.0,93658.37
+NG-2025317,2025-06-03,Port Harcourt,Corporate,Furniture,Storage,8,117500.0,0.0,940000.0,-22189.9
+NG-2025318,2025-04-11,Ibadan,Small Business,Technology,Laptops,8,84800.0,0.1,678400.0,85590.0
+NG-2025319,2025-06-21,Port Harcourt,Corporate,Office Supplies,Envelopes,7,6400.0,0.15,44800.0,14106.49
+NG-2025320,2025-12-22,Port Harcourt,Small Business,Furniture,Bookcases,4,91700.0,0.1,366800.0,-32214.93
+NG-2025321,2025-05-05,Kano,Small Business,Office Supplies,Labels,6,4400.0,0.1,26400.0,8028.86
+NG-2025322,2025-10-31,Ibadan,Consumer,Office Supplies,Binders,9,3500.0,0.0,31500.0,9194.99
+NG-2025323,2025-05-30,Abuja,Corporate,Technology,Laptops,12,80300.0,0.1,963600.0,252412.11
+NG-2025324,2025-06-05,Abuja,Small Business,Technology,Laptops,4,102300.0,0.1,409200.0,36228.85
+NG-2025325,2025-09-03,Kano,Small Business,Office Supplies,Binders,10,4500.0,0.2,45000.0,10199.39
+NG-2025326,2025-10-02,Port Harcourt,Small Business,Office Supplies,Binders,10,5600.0,0.0,56000.0,6789.75
+NG-2025327,2025-11-10,Abuja,Small Business,Technology,Copiers,1,139600.0,0.2,139600.0,29491.59
+NG-2025328,2025-01-06,Kano,Consumer,Office Supplies,Labels,2,3900.0,0.15,7800.0,1775.82
+NG-2025329,2025-07-20,Kano,Corporate,Technology,Accessories,8,164700.0,0.15,1317600.0,259761.53
+NG-2025330,2025-02-23,Lagos,Corporate,Furniture,Bookcases,5,86400.0,0.0,432000.0,80613.25
+NG-2025331,2025-06-25,Port Harcourt,Corporate,Technology,Accessories,8,166100.0,0.0,1328800.0,239554.35
+NG-2025332,2025-12-23,Kano,Small Business,Office Supplies,Binders,8,4100.0,0.2,32800.0,5742.17
+NG-2025333,2025-02-25,Port Harcourt,Small Business,Furniture,Chairs,11,119000.0,0.2,1309000.0,229693.97
+NG-2025334,2025-06-19,Ibadan,Consumer,Furniture,Tables,9,87200.0,0.1,784800.0,9197.04
+NG-2025335,2025-12-03,Abuja,Small Business,Technology,Accessories,7,119500.0,0.0,836500.0,196031.34
+NG-2025336,2025-12-27,Kano,Consumer,Office Supplies,Envelopes,4,3600.0,0.0,14400.0,4148.37
+NG-2025337,2025-07-07,Ibadan,Consumer,Technology,Phones,6,95600.0,0.2,573600.0,45021.14
+NG-2025338,2025-11-09,Ibadan,Corporate,Office Supplies,Labels,7,5300.0,0.1,37100.0,6937.0
+NG-2025339,2025-10-30,Port Harcourt,Small Business,Technology,Accessories,2,152700.0,0.0,305400.0,39181.73
+NG-2025340,2025-12-22,Abuja,Corporate,Office Supplies,Binders,3,5000.0,0.0,15000.0,3068.4
+NG-2025341,2025-09-07,Kano,Consumer,Technology,Laptops,11,136500.0,0.0,1501500.0,420105.06
+NG-2025342,2025-03-13,Kano,Corporate,Technology,Accessories,3,109700.0,0.0,329100.0,53561.1
+NG-2025343,2025-04-10,Kano,Consumer,Office Supplies,Binders,7,7000.0,0.1,49000.0,11091.62
+NG-2025344,2025-08-16,Kano,Small Business,Office Supplies,Envelopes,8,3500.0,0.0,28000.0,6757.78
+NG-2025345,2025-10-03,Port Harcourt,Consumer,Office Supplies,Binders,5,3500.0,0.2,17500.0,3750.78
+NG-2025346,2025-05-18,Ibadan,Consumer,Office Supplies,Binders,9,6400.0,0.0,57600.0,11042.81
+NG-2025347,2025-08-06,Ibadan,Consumer,Technology,Laptops,2,160300.0,0.0,320600.0,68421.79
+NG-2025348,2025-06-28,Kano,Corporate,Office Supplies,Binders,2,4700.0,0.0,9400.0,3275.8
+NG-2025349,2025-08-08,Ibadan,Small Business,Furniture,Bookcases,3,103400.0,0.0,310200.0,38681.09
+NG-2025350,2025-11-02,Ibadan,Corporate,Furniture,Bookcases,9,65300.0,0.0,587700.0,113220.44
+NG-2025351,2025-02-18,Ibadan,Small Business,Office Supplies,Labels,3,7000.0,0.0,21000.0,6224.88
+NG-2025352,2025-03-16,Abuja,Consumer,Office Supplies,Paper,12,4100.0,0.2,49200.0,7964.92
+NG-2025353,2025-11-20,Abuja,Small Business,Office Supplies,Envelopes,5,5500.0,0.0,27500.0,5329.31
+NG-2025354,2025-05-23,Kano,Small Business,Technology,Phones,12,184400.0,0.1,2212800.0,314810.17
+NG-2025355,2025-08-23,Lagos,Small Business,Office Supplies,Binders,11,5700.0,0.0,62700.0,11885.14
+NG-2025356,2025-04-19,Abuja,Corporate,Technology,Laptops,8,104200.0,0.0,833600.0,214306.81
+NG-2025357,2025-06-25,Ibadan,Corporate,Technology,Accessories,11,163500.0,0.2,1798500.0,110582.09
+NG-2025358,2025-08-14,Lagos,Consumer,Office Supplies,Binders,8,2700.0,0.0,21600.0,7333.37
+NG-2025359,2025-05-21,Port Harcourt,Consumer,Technology,Accessories,2,150600.0,0.0,301200.0,33914.31
+NG-2025360,2025-11-17,Lagos,Corporate,Technology,Accessories,5,159100.0,0.1,795500.0,189971.8
+NG-2025361,2025-04-20,Lagos,Consumer,Technology,Phones,8,81400.0,0.15,651200.0,129211.02
+NG-2025362,2025-12-23,Lagos,Consumer,Technology,Laptops,6,170100.0,0.1,1020600.0,303157.73
+NG-2025363,2025-04-28,Kano,Consumer,Technology,Accessories,7,82700.0,0.0,578900.0,145587.1
+NG-2025364,2025-07-15,Port Harcourt,Consumer,Office Supplies,Labels,3,5600.0,0.0,16800.0,4523.98
+NG-2025365,2025-03-26,Ibadan,Small Business,Technology,Phones,8,114100.0,0.2,912800.0,94259.25
+NG-2025366,2025-08-15,Ibadan,Small Business,Furniture,Storage,4,58400.0,0.0,233600.0,-26825.97
+NG-2025367,2025-06-11,Port Harcourt,Corporate,Technology,Laptops,3,101700.0,0.0,305100.0,64423.43
+NG-2025368,2025-06-04,Lagos,Small Business,Technology,Copiers,4,134100.0,0.2,536400.0,95146.98
+NG-2025369,2025-09-11,Lagos,Consumer,Office Supplies,Labels,7,3200.0,0.15,22400.0,5037.66
+NG-2025370,2025-03-09,Port Harcourt,Corporate,Furniture,Chairs,7,124200.0,0.0,869400.0,42542.47
+NG-2025371,2025-01-09,Kano,Consumer,Technology,Accessories,10,80100.0,0.0,801000.0,92552.6
+NG-2025372,2025-11-18,Ibadan,Corporate,Furniture,Storage,12,93600.0,0.2,1123200.0,-5165.37
+NG-2025373,2025-11-12,Ibadan,Small Business,Office Supplies,Binders,3,3900.0,0.15,11700.0,2076.48
+NG-2025374,2025-07-20,Ibadan,Corporate,Furniture,Tables,10,104900.0,0.2,1049000.0,149046.39
+NG-2025375,2025-08-12,Port Harcourt,Small Business,Technology,Phones,12,186400.0,0.0,2236800.0,245286.03
+NG-2025376,2025-11-10,Lagos,Corporate,Furniture,Storage,10,55700.0,0.2,557000.0,46302.21
+NG-2025377,2025-12-29,Lagos,Consumer,Technology,Accessories,3,156200.0,0.0,468600.0,42622.99
+NG-2025378,2025-03-06,Abuja,Corporate,Technology,Copiers,12,165700.0,0.0,1988400.0,233022.83
+NG-2025379,2025-09-26,Kano,Corporate,Furniture,Bookcases,2,73400.0,0.2,146800.0,28078.1
+NG-2025380,2025-07-04,Kano,Small Business,Furniture,Storage,1,93500.0,0.0,93500.0,4526.35
+NG-2025381,2025-12-12,Lagos,Small Business,Furniture,Bookcases,12,60800.0,0.0,729600.0,79725.57
+NG-2025382,2025-08-30,Abuja,Consumer,Furniture,Chairs,6,83600.0,0.0,501600.0,-48891.14
+NG-2025383,2025-05-08,Abuja,Corporate,Technology,Laptops,7,181900.0,0.0,1273300.0,165508.35
+NG-2025384,2025-12-11,Lagos,Small Business,Technology,Copiers,1,93500.0,0.0,93500.0,23476.4
+NG-2025385,2025-06-09,Kano,Corporate,Office Supplies,Binders,6,3100.0,0.0,18600.0,3983.87
+NG-2025386,2025-11-15,Ibadan,Corporate,Furniture,Bookcases,4,90400.0,0.1,361600.0,20644.4
+NG-2025387,2025-07-29,Abuja,Consumer,Furniture,Tables,1,70800.0,0.2,70800.0,-2035.62
+NG-2025388,2025-07-12,Lagos,Small Business,Furniture,Bookcases,12,112800.0,0.15,1353600.0,-153793.11
+NG-2025389,2025-03-14,Kano,Consumer,Furniture,Storage,12,74800.0,0.0,897600.0,-120848.29
+NG-2025390,2025-02-13,Port Harcourt,Corporate,Technology,Laptops,10,83500.0,0.1,835000.0,69621.02
+NG-2025391,2025-03-08,Kano,Small Business,Furniture,Chairs,4,75800.0,0.1,303200.0,44818.96
+NG-2025392,2025-05-20,Port Harcourt,Corporate,Technology,Copiers,4,81000.0,0.15,324000.0,32619.72
+NG-2025393,2025-08-19,Lagos,Consumer,Furniture,Tables,8,77700.0,0.0,621600.0,-66972.52
+NG-2025394,2025-05-16,Port Harcourt,Corporate,Furniture,Storage,2,58700.0,0.0,117400.0,15574.16
+NG-2025395,2025-03-17,Abuja,Corporate,Technology,Phones,2,157300.0,0.1,314600.0,91894.66
+NG-2025396,2025-03-31,Port Harcourt,Corporate,Technology,Phones,1,186300.0,0.15,186300.0,49118.06
+NG-2025397,2025-02-22,Lagos,Corporate,Technology,Accessories,3,86600.0,0.0,259800.0,16995.41
+NG-2025398,2025-12-18,Kano,Corporate,Furniture,Tables,11,130700.0,0.15,1437700.0,-173366.78
+NG-2025399,2025-04-12,Lagos,Consumer,Office Supplies,Binders,11,4700.0,0.0,51700.0,6834.63
